@@ -4,7 +4,6 @@
 
 - Selenium
 - Gauge
-- JUnit
 - Maven
 - Gauge Maven Plugin
 
